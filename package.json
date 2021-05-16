@@ -16,6 +16,8 @@
     "react-dom": "16.8.6",
     "react-router-dom": "5.0.1",
     "react-scripts": "3.0.1",
+     "lodash": ">=4.17.21",
+     "postcss": ">=8.2.10",
     "react-swipeable-views": "0.13.3"
   },
   "devDependencies": {
